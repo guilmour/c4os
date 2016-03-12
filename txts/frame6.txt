@@ -1,0 +1,53 @@
+Atendente: Ola, bem-vindo as Livrarias Curytiba.
+           Posso ajudar?
+		   
+Eu: Ah, obrigado, vou dar uma olhada nos livros.
+
+Eu: Hmm, deixo eu ver nessa estante de Fisica livros com valor de $10.¬
+    1. A Natureza do Espaco e do Tempo   - Stephen Hawking
+    2. Como Vejo o Mundo                 - Albert Einstein
+    3. Cosmos                            - Carl Sagan
+    >>¬
+	
+|Eu: Acho que vou levar 'A Natureza do Espaco e do Tempo', 
+     do Stephen Hawking¬
+
+@Eu: Acho que vou levar 'Como Vejo o Mundo' do Genial Albert Eistein.¬
+
+§Eu: Acho que vou levar 'Cosmos' do grande Carl Sagan. ¬
+
+&
+
+Atendente: Belissima escolha, eu tambem sou fascinada por fisica.
+           Meu fisico favorito e Newton, claro o maior deles. 
+           Sem comparacoes, mas esse que voce escolheu tambem foi genial!
+
+Eu: Sim, tambem adoro todos eles. Mas esse preciso levar a biblioteca
+    da univerisdade.
+
+Atendente:  Tudo bem. O Total foi: $10,00.
+
+Eu: Okay, aqui esta. Vou indo ate a minha biblioteca antes que feche
+    Ate a proxima :)¬
+
+#Bibliotecaria: Ei, voce! A biblioteca ja esta fechando!
+
+Eu: Eu sei moca, mas eh rapidinho, preciso deixar esse livro, eh o pagamento 
+    de uma multa.
+
+Bibliotecaria: Ah, entendi. Siga ate o final desse corredor e fale com
+               a Mary, ele pode te ajudar.
+
+Eu: Ta bom, farei isto. :)¬
+
+Eu: Droga, ate vim parar na Area Restrita e nao achei o livro que quero.
+    Mas caramba, olha quantos livros bacanas aqui nessa Sessao.
+    E esses disquetes antigos?! Ninguem deve organizar isso aqui a anos.¬
+    
+    1.Ver Disquetes Antigos.
+    >> ¬
+	
+Eu: Project C4OS?! O que sera que eh isso ein?
+    Esses selos do MIT e Harvard :o
+    Isso deve ser bacana, preciso levar para casa para ver o que tem nesses
+    disquetes.¬

@@ -1,0 +1,4 @@
+				1. novo jogo
+				2. continuar
+				3. credits
+				4. exit

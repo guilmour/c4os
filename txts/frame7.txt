@@ -1,0 +1,59 @@
+Eu: Preciso testar esses disquetes. *-*
+    Deixa eu ver se meu antigo PC AMD K7 ainda esta funcionando.¬
+	
+    Olha, nao eh que esta ligando ainda. Vou inserir estes disquetes 31/2"
+    Ah, que beleza, copiando os arquivos, acho que vai funcionar.
+    .
+    .
+    .
+    .
+    .
+    So falta o ultimo disquete......
+    Uhul, acho que funcionou.¬
+	
+	@	
+	Loading System.....
+	Inicialyze? (ENTER)
+	
+	
+	¬
+	
+	ERROR! Some files are corrupted! Try Again Later!
+¬
+Eu: Droga! Arquivos Corrompidos. :/
+    Tenho que recuperar este sistema de qualquer custo, nao deve ser 
+    complicado. Eu estudo Engenharia da Computacao pra isso! 
+ 
+Eu acho, que se conseguir substiuir todos os arquivos e instrucoes
+corrompidas, vou conseguir rodar o C4OS, mesmo sem saber o que ele 
+faz!. 
+
+Mas olha so essas documentacoes! Com topicos como infinitos, buracos-negro, 
+universos paralelos, lei de relatividade. E olha esse aqruivo de log dizendo 
+que o objetivo do C4OS eh “Criar um universo a partir da energia negativa do 
+campo gravitacional”.
+
+Meu, que demais!  Preciso terminar de codificar o software e remontar dados 
+perdidos, terei de usar meus conhecimentos e tecnologias atuais, a fim de 
+dar um grande passo na ciência e quem sabe, 'brincar de deus'.¬
+
+¬
+&Eu: O que estou fazendo de errado?
+Estou deixando alguma coisa passar!¬
+
+    1.Tentar Novamente.
+    2.Examinar Disquetes.
+    >>¬
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

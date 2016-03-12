@@ -1,0 +1,2 @@
+			Bem-vindo Jogador!
+			Digite seu nome: 

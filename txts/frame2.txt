@@ -1,0 +1,37 @@
+Eu: Poxa, ja sao 21hs da noite. Esta aula de Calculo 3 esta me matando!
+E pra ajudar ainda estou com muita fome. Alguem me tira daqui.:/
+¬
+	1. Esperar a Aula Acabar.
+	2. Sair da Sala de Aula.
+	>>¬
+|
+Professor de Calculo: Vejo que nao esta muito atento a aula, nao quer
+vir aqui e resolver esta Integral no quadro ¬
+
+	1. Resolver Integral no Quadro.
+	2. Sair da Sala.
+	>>¬
+|
+Eu: Tudo bem professor, pode deixar que resolvo sim. :) ¬
+
+¦¦¦¦¦¦¦+¦¦+   ¦¦+ ¦¦¦¦¦¦+¦¦+  ¦¦+     ¦¦¦¦¦¦+ ¦¦¦¦¦¦¦+¦¦¦¦¦¦¦+
+¦¦+----+¦¦¦   ¦¦¦¦¦+----+¦¦¦ ¦¦++    ¦¦+---¦¦+¦¦+----+¦¦+----+
+¦¦¦¦¦+  ¦¦¦   ¦¦¦¦¦¦     ¦¦¦¦¦++     ¦¦¦   ¦¦¦¦¦¦¦¦+  ¦¦¦¦¦+  
+¦¦+--+  ¦¦¦   ¦¦¦¦¦¦     ¦¦+-¦¦+     ¦¦¦   ¦¦¦¦¦+--+  ¦¦+--+  
+¦¦¦     +¦¦¦¦¦¦+++¦¦¦¦¦¦+¦¦¦  ¦¦+    +¦¦¦¦¦¦++¦¦¦     ¦¦¦     
++-+      +-----+  +-----++-+  +-+     +-----+ +-+     +-+     
+                                                              ¬
+
+Eu: Gostou Professor?
+
+Prof. De Calculo: Mas o que eh isso? Saia ja da sala, vou chamar o inspetor
+para te levar ao seu Coordenador de Curso!
+¬
+
+@
+Professor de Calculo: Mas olha so quem esta saindo da sala,
+a aula ainda nao acabou, quero so ver suas notas no final
+do semestre ¬
+
+
+

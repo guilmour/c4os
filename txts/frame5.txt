@@ -1,0 +1,66 @@
+Eu: Que dia cansativo em! Preciso ir na biblioteca antes que feche.
+Mas olha quem esta ali naquele banco, Cris! s2.s2 ¬
+
+	1. Ir na Biblioteca.
+	2. Ir conversar com Cris. s2
+	>>¬
+|
+Cris: ¬, estava morrendo de saudades!
+
+Eu:   Awn, eu tambem estava muito!
+
+Cris: Vem comigo, quero te mostrar uma coisa na Sessao Restrita da Biblioteca!
+
+Eu:   Voce nao bate bem neh?! Por isso eu gosto tanto de voce. :3
+
+Cris: Vamos, por favor.
+
+Eu:   Sabia que podemos ser presos por ato obsceno? Ou pior, podemos ser 
+      expulsos da Universidade!? 
+	  
+Cris: Isso nao vai acontecer, vem!¬
+
+Cris: Viu como aqui fica deserto esse horario?
+
+Eu:   Voce e suas ideias malucas. Nao podemos namorar aqui. 
+
+RING RING RING
+
+Cris: Pera ai, meu celular esta tocando. 
+
+RING RING RING
+
+Cris: Xii, eh meu Pai. Ele vai vir me buscar daqui a pouco. :/
+      Tenho quer ir ¬, amanha continuamos isso. >.<¬
+	  
+Eu: Droga, estava bom demais para ser verdade mesmo. :/
+    Mas caramba, olha quantos livros bacanas aqui nessa Sessao Restrita.
+    E esses disquetes antigos?! Ninguem deve organizar isso aqui a anos.¬
+
+	1.Ver Disquetes Antigos.
+	>> ¬
+Eu: Project C4OS?! O que sera que eh isso ein?
+    Esses selos do MIT e Harvard :o
+    Isso deve ser bacana, preciso levar para casa para ver o que tem nesses
+    disquetes.¬
+	  
+@Bibliotecaria: Ei, voce! A biblioteca ja esta fechando!
+
+Eu: Eu sei moca, mas eh rapidinho, so vou pegar um livro, tenho prova daqui
+    alguns dias.
+
+Bibliotecaria: Okay, ._. Tudo bem, mas seja rapido!
+
+Eu: Pode deixar. :)¬
+
+Eu: Droga, ate vim parar na Area Restrita e nao achei o livro que quero.
+    Mas caramba, olha quantos livros bacanas aqui nessa Sessao.
+    E esses disquetes antigos?! Ninguem deve organizar isso aqui a anos.¬
+    
+    1.Ver Disquetes Antigos.
+    >> ¬
+	
+Eu: Project C4OS?! O que sera que eh isso ein?
+    Esses selos do MIT e Harvard :o
+    Isso deve ser bacana, preciso levar para casa para ver o que tem nesses
+    disquetes.¬

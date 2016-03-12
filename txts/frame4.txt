@@ -1,0 +1,48 @@
+Eu: Nossa, quanta gente no Patio dessa Universidade.
+Preciso muito ir na biblioteca pegar um Livro, mas a fome esta maior
+Onde comer hoje?¬
+
+	1. Comer no Djalma Lanches
+	2. Jantar no R.U.
+	>>¬
+	
+|Eu: Ah, mas que delicia de lanches do Djalma, como eu amo esse lugar.
+
+Djalma: Ola ¬! voce sempre aqui apreciando o melhor e mais gorduroso
+lanche de Curitiba! E  ai, qual eh a boa para hoje?¬
+
+	1. X-Salada + Agua da Serra: 	$5,00
+	2. X-Burguer + Agua da Serra: 	$4,00
+	3. X-Coxinha + Agua da Serra: 	$6,00
+	>>¬
+	
+|Eu: Opa Djalma, sempre neh. Me veja um X-Salada + Agua da Serra. 
+
+Djalma: Saindo um lanche no Capricho, com bastante Maionese!
+
+Eu: Nham, Nham. Depois de comer preciso voltar a universidade. ¬
+
+@Eu: Opa Djalma, sempre neh. Me veja um X-Burguer + Agua da Serra. 
+
+Djalma: Saindo um lanche no Capricho, com bastante Maionese! 
+
+Eu: Nham, Nham. Depois de comer preciso voltar a universidade. ¬
+
+§Eu: Opa Djalma, sempre neh. Me veja um X-Coxinha + Agua da Serra.
+
+Djalma: Saindo um lanche no Capricho, com bastante Maionese! 
+
+Eu: Nham, Nham. Depois de comer preciso voltar a universidade. ¬
+
+&Caixa do R.U: Proximo!!! Diga o que quer?¬
+
+	1. Refeicao do R.U. $3.00
+	2. Refeicao do R.U. $3.00
+	3. Refeicao do R.U. $3.00
+	>>¬
+	
+Eu: Nossa, o cardapio esta variado como sempre!
+Por favor, me veja uma janta normal entao.¬
+Caixa do R.U: Okay! Proximo!!!
+
+	
